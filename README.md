@@ -1,7 +1,7 @@
 # testmmd
 
-```mermaid      # 开始
+```mermaid
 flowchart TD
-    A("fab:fa-youtube Starter Guide") --> B("fab:fa-youtube Make Flowchart")
-    B --> C("fa:fa-book-open Learn More")
-```             # 结束
+    A  --> B 
+    B --> C 
+```
